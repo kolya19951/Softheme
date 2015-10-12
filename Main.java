@@ -1,8 +1,3 @@
-package classes;
-
-/**
- * Created by Коля on 12.10.2015.
- */
 public class Main {
     public static void main(String[] args) {
         String text = "11111110110011111100001111111";
